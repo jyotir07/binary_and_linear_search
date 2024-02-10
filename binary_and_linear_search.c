@@ -1,4 +1,4 @@
-/*code by Jyotiraditya Singh.*/
+// Author: jyotir07 @github
 #include <stdio.h>
 int binary_search(int *arr, int s, int v)
 {
